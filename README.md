@@ -3,8 +3,9 @@ This is my python solution for the BigBang Case Study given for Versa's Develope
 
 These are the steps to run the bigbangarif.py file:
 
-1. Open your chosen terminal.
-2. Make sure the path to the file is correct.
-3. Type the command "python bigbangarif.py" in the terminal.
-4. The array generated will be printed on the terminal.
-5. A json file containing the output will also be generated in your Downloads folder.
+1. Download the "bigbangarif.py" from the repository.
+2. Open your chosen terminal.
+3. Make sure the path to the file is correct.
+4. Type the command "python bigbangarif.py" in the terminal.
+5. The array generated will be printed on the terminal.
+6. A json file containing the output will also be generated in your Downloads folder.
